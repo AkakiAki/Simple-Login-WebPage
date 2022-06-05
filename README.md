@@ -1,4 +1,4 @@
-University Project
+University PHP Project
 
 Login webpage with MySQL database connection + HTML, CSS
 
